@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionuave",
+        "uuid": 57008,
+        "checksum": "h71zcq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
